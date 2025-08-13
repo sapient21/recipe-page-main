@@ -177,8 +177,8 @@ table {
 }
 
 .recipe__img {
+    border-radius: 15px;
     @media (width >=68.78rem) {
-        border-radius: 15px;
         margin-block-end: 32px;
     }
 }
